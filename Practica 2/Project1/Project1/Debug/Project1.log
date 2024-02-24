@@ -1,0 +1,9 @@
+﻿  practica2.cpp
+C:\Users\PC\Documents\CGIHC-Practicas\Practica 02\Project1\Project1\Window.h(13,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\PC\Documents\CGIHC-Practicas\Practica 02\Project1\Project1\Window.h(14,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\PC\Documents\CGIHC-Practicas\Practica 02\Project1\Project1\practica2.cpp(19,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Project1.vcxproj -> C:\Users\PC\Documents\CGIHC-Practicas\Practica 02\Project1\Debug\Project1.exe
