@@ -1,0 +1,44 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  practica4_sinjerarquía.cpp
+E:\G\Practica 4\Practica 4\Practica 4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_sinjerarquía.cpp")
+  
+E:\G\Practica 4\Practica 4\Practica 4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_sinjerarquía.cpp")
+  
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(31,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(197,16): warning C4018: '<': no coinciden signed/unsigned
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(239,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(239,32): warning C4244:         with
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(239,32): warning C4244:         [
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(239,32): warning C4244:             _Ty=GLfloat
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(239,32): warning C4244:         ]
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(241,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(241,32): warning C4244:         with
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(241,32): warning C4244:         [
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(241,32): warning C4244:             _Ty=GLfloat
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(241,32): warning C4244:         ]
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(335,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\practica4_sinjerarquía.cpp(337,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader.cpp
+  Sphere.cpp
+E:\G\Practica 4\Practica 4\Practica 4\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Window.cpp
+E:\G\Practica 4\Practica 4\Practica 4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+E:\G\Practica 4\Practica 4\Practica 4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(182,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(183,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(187,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(188,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(190,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(191,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+E:\G\Practica 4\Practica 4\Practica 4\Window.cpp(84): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica 4.vcxproj -> E:\G\Practica 4\Practica 4\Debug\Practica 4.exe
